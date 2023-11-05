@@ -1,0 +1,17 @@
+{
+    "name": "root/html",
+    "require": {
+        "openswoole/core": "22.1.2",
+        "openswoole/ide-helper": "~22.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Root\\Html\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "troneras"
+        }
+    ]
+}
